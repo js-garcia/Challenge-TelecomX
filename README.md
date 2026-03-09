@@ -21,4 +21,5 @@ El objetivo es identificar patrones en el comportamiento de los clientes que pue
 `TelecomX_LATAM.ipynb`
 
 ## Autor
+Soledad Garcia
 Proyecto realizado como parte del challenge de análisis de datos de Alura Latam.
